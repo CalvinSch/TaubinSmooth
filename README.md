@@ -1,13 +1,15 @@
-Calvin Schaul
+### Calvin Schaul
 
-CS657/718 Advanced Computer Graphics and Animation
+### CS657/718 Advanced Computer Graphics and Animation
 
 Code written in the `taubin_smooth.cpp` file. Based on smoothing.cpp demo code
 
 Using 100 iterations of Taubin Smoothing, the result is seen in `output.off`
 
+The noisy, "rough" mesh is included as a `.off` file as well for further testing.
+
 - Compile code with GCC
-`gcc proj3_taubin_schaul.cpp`
+`gcc taubin_smooth.cpp`
 - Run the exe
 `a.exe` or `./a.out` depending on windows/linux
 
